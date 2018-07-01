@@ -1,0 +1,10 @@
+C:\Users\HVAD\Documents\Work\Replenishment Project\frmReplenishment\frmReplenishment\bin\Debug\frmReplenishment.exe.config
+C:\Users\HVAD\Documents\Work\Replenishment Project\frmReplenishment\frmReplenishment\bin\Debug\frmReplenishment.exe
+C:\Users\HVAD\Documents\Work\Replenishment Project\frmReplenishment\frmReplenishment\bin\Debug\frmReplenishment.pdb
+C:\Users\HVAD\Documents\Work\Replenishment Project\frmReplenishment\frmReplenishment\obj\Debug\frmReplenishment.csprojResolveAssemblyReference.cache
+C:\Users\HVAD\Documents\Work\Replenishment Project\frmReplenishment\frmReplenishment\obj\Debug\frmReplenishment.Properties.Resources.resources
+C:\Users\HVAD\Documents\Work\Replenishment Project\frmReplenishment\frmReplenishment\obj\Debug\frmReplenishment.csproj.GenerateResource.cache
+C:\Users\HVAD\Documents\Work\Replenishment Project\frmReplenishment\frmReplenishment\obj\Debug\frmReplenishment.csproj.CoreCompileInputs.cache
+C:\Users\HVAD\Documents\Work\Replenishment Project\frmReplenishment\frmReplenishment\obj\Debug\frmReplenishment.exe
+C:\Users\HVAD\Documents\Work\Replenishment Project\frmReplenishment\frmReplenishment\obj\Debug\frmReplenishment.pdb
+C:\Users\HVAD\Documents\Work\Replenishment Project\frmReplenishment\frmReplenishment\obj\Debug\frmReplenishment.Form1.resources
